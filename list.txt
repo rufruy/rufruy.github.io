@@ -1,4 +1,5 @@
 央卫频道,#genre#
+CCTV 13,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 超高清 4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 1,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV 2,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
@@ -13,7 +14,6 @@ CCTV 9,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
 CCTV 10,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
 CCTV 11,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
 CCTV 12,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV 13,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV 14,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV 15,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV 17,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
