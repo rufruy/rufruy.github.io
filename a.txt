@@ -1,4 +1,4 @@
-央卫频道,#genre#
+央卫频道N,#genre#
 超高清 4K,http://120.204.20.88/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 1,http://120.204.20.88/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV 2,http://120.204.20.88/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
