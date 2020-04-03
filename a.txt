@@ -6,8 +6,11 @@ CCTV-13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv#http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 NOW新闻,http://s6800872.awhost.cn/888/xgtv.php?id=16
 无线新闻,http://s6800872.awhost.cn/888/xgtv.php?id=9
-CNN,vjms://58.215.133.197:8500:3502/live/cid=428
 BBC,vjms://58.215.133.197:8500:3502/live/cid=418
+CNN,vjms://58.215.133.197:8500:3502/live/cid=428
+中天新聞,vjms://58.215.133.197:8500:3502/live/cid=407
+非凡新聞,vjms://58.215.133.197:8500:3502/live/cid=443
+TVBS新聞臺,vjms://58.215.133.197:8500:3502/live/cid=348
 MSNBC,P2p://fccsovh.pvbox.live:18912/5b593bde000d6234d379d7c74dd8781f
 MSNBC-HD,P2p://51.79.41.138:18912/5b593bde000d6234d379d7c74dd8781f.ts.ts
 
